@@ -9,15 +9,15 @@ With the advent of the modern pre-trained Transformers, the text preprocessing h
 All the code used in our experiments can be executed on Google Colab.
 
 ## BIBTEX
-@article{siino2023is,
-title = {Is text preprocessing still worth the time? A comparative survey on the influence of popular preprocessing methods on Transformers and traditional classifiers},
-journal = {Information Systems},
-pages = {102342},
-year = {2023},
-issn = {0306-4379},
-doi = {https://doi.org/10.1016/j.is.2023.102342},
-url = {https://www.sciencedirect.com/science/article/pii/S0306437923001783},
-author = {Marco Siino and Ilenia Tinnirello and Marco {La Cascia}}
+@article{siino2023is,  
+title = {Is text preprocessing still worth the time? A comparative survey on the influence of popular preprocessing methods on Transformers and traditional classifiers},  
+journal = {Information Systems},  
+pages = {102342},  
+year = {2023},  
+issn = {0306-4379},  
+doi = {https://doi.org/10.1016/j.is.2023.102342},  
+url = {https://www.sciencedirect.com/science/article/pii/S0306437923001783},  
+author = {Marco Siino and Ilenia Tinnirello and Marco {La Cascia}}  
 }
 
 ## Useful Links
